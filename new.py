@@ -1,0 +1,1 @@
+print("From new py file")
